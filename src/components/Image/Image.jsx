@@ -1,10 +1,16 @@
 import React, { Component } from "react";
-import "../Image/image.css";
 
 class Image extends Component {
-  
+
+  style = {
+    maxHeight: "200px",
+    maxWidth: "200px",
+    height: "auto",
+    width: "auto",
+  }
+
   render() {
-      return <img src={this.props.src} alt={this.props.name}></img>
+    return <img style={this.style} src={this.props.src} alt={this.props.name}></img>
   };
 };
 

@@ -1,13 +1,52 @@
-export {default as BartSimpson} from './Bart_Simpson.png'
-export {default as Bugs_Bunny} from './Bugs_Bunny.png'
-export {default as Foghorn_Leghorn} from './Foghorn_Leghorn.png'
-export {default as Fred_Flinstone} from './Fred_Flinstone.png'
-export {default as Garfield} from './Garfield.png'
-export {default as Homer_Simpson} from './Homer_Simpson.png'
-export {default as Jerry} from './Jerry.png'
-export {default as Marvin} from './Marvin.png'
-export {default as Peter_Griffin} from './Peter_Griffin.png'
-export {default as Pink_Panther} from './Pink_Panther.png'
-export {default as Popeye} from './Popeye.png'
-export {default as Scooby} from './Scooby.png'
-export {default as Wile_E_Coyote} from './Wile_E_Coyote.png'
+const characterImages = {
+  BartSimpson: {
+    id:1,
+    image: require('./Bart_Simpson.png'),
+  },
+  Bugs_Bunny: {
+    id:2,
+    image: require('./Bugs_Bunny.png'),
+  },
+  Foghorn_Leghorn: {
+    id:3,
+    image: require('./Foghorn_Leghorn.png'),
+  },
+  Fred_Flinstone: {
+    id:4,
+    image: require('./Fred_Flinstone.png'),
+  },
+  Homer_Simpson: {
+    id:6,
+    image: require('./Homer_Simpson.png'),
+  },
+  Jerry: {
+    id:7,
+    image: require('./Jerry.png'),
+  },
+  Marvin: {
+    id:8,
+    image: require('./Marvin.png'),
+  },
+  Peter_Griffin: {
+    id:9,
+    image: require('./Peter_Griffin.png'),
+  },
+  Pink_Panther: {
+    id:10,
+    image: require('./Pink_Panther.png'),
+  },
+  Popeye: {
+    id:11,
+    image: require('./Popeye.png'),
+  },
+  Scooby: {
+    id:12,
+    image: require('./Scooby.png'),
+  },
+  Wile_E_Coyote: {
+    id:13,
+    image: require('./Wile_E_Coyote.png'),
+  },
+}
+
+export default characterImages;
