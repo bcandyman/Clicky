@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/Clicky/static/css/main.69fc9a34.chunk.css",
+    "main.js": "/Clicky/static/js/main.c5a6eb31.chunk.js",
+    "main.js.map": "/Clicky/static/js/main.c5a6eb31.chunk.js.map",
+    "runtime-main.js": "/Clicky/static/js/runtime-main.2a3e645b.js",
+    "runtime-main.js.map": "/Clicky/static/js/runtime-main.2a3e645b.js.map",
+    "static/css/2.47e06e2e.chunk.css": "/Clicky/static/css/2.47e06e2e.chunk.css",
+    "static/js/2.bc3702df.chunk.js": "/Clicky/static/js/2.bc3702df.chunk.js",
+    "static/js/2.bc3702df.chunk.js.map": "/Clicky/static/js/2.bc3702df.chunk.js.map",
+    "index.html": "/Clicky/index.html",
+    "precache-manifest.69aa5f0058dee155eb5aed0c7f059565.js": "/Clicky/precache-manifest.69aa5f0058dee155eb5aed0c7f059565.js",
+    "service-worker.js": "/Clicky/service-worker.js",
+    "static/css/2.47e06e2e.chunk.css.map": "/Clicky/static/css/2.47e06e2e.chunk.css.map",
+    "static/css/main.69fc9a34.chunk.css.map": "/Clicky/static/css/main.69fc9a34.chunk.css.map",
+    "static/js/2.bc3702df.chunk.js.LICENSE.txt": "/Clicky/static/js/2.bc3702df.chunk.js.LICENSE.txt",
+    "static/media/Bart_Simpson.png": "/Clicky/static/media/Bart_Simpson.1973cdec.png",
+    "static/media/Bugs_Bunny.png": "/Clicky/static/media/Bugs_Bunny.beb0d37a.png",
+    "static/media/Foghorn_Leghorn.png": "/Clicky/static/media/Foghorn_Leghorn.12733528.png",
+    "static/media/Fred_Flinstone.png": "/Clicky/static/media/Fred_Flinstone.c109fa07.png",
+    "static/media/Homer_Simpson.png": "/Clicky/static/media/Homer_Simpson.a41e4019.png",
+    "static/media/Jerry.png": "/Clicky/static/media/Jerry.9d939552.png",
+    "static/media/Marvin.png": "/Clicky/static/media/Marvin.5cbf8fe2.png",
+    "static/media/Peter_Griffin.png": "/Clicky/static/media/Peter_Griffin.a8669b5d.png",
+    "static/media/Pink_Panther.png": "/Clicky/static/media/Pink_Panther.30031b6a.png",
+    "static/media/Popeye.png": "/Clicky/static/media/Popeye.dd440f3e.png",
+    "static/media/Scooby.png": "/Clicky/static/media/Scooby.6eed493d.png",
+    "static/media/Wile_E_Coyote.png": "/Clicky/static/media/Wile_E_Coyote.2346adc1.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2a3e645b.js",
+    "static/css/2.47e06e2e.chunk.css",
+    "static/js/2.bc3702df.chunk.js",
+    "static/css/main.69fc9a34.chunk.css",
+    "static/js/main.c5a6eb31.chunk.js"
+  ]
+}
