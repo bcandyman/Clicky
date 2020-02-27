@@ -4,6 +4,7 @@
 
 .App{
   background-color: lavender;
+  font-family: 'Fjalla One';
 }
 
 .jumbotron-fluid{
@@ -18,5 +19,6 @@
 }
 
 .score{
+  font-family: 'Kaushan Script' ;
   font-size: xx-large;
 }

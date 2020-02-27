@@ -4,7 +4,7 @@ import 'bootstrap/dist/css/bootstrap.min.css';
 class Container extends Component {
   
   render() {
-      return <div className='container'>{this.props.children}</div>;
+      return <div className='container pb-5'>{this.props.children}</div>;
   };
 };
 

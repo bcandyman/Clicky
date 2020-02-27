@@ -1,12 +1,12 @@
 import React, { Component } from "react";
-import Col from './components/bootstrap/Col'
-import Container from './components/bootstrap/Container'
-import Row from './components/bootstrap/Row'
-import Image from './components/Image/Image'
-import Button from './components/bootstrap/Button'
+import Col from './components/bootstrapComponents/Col'
+import Container from './components/bootstrapComponents/Container'
+import Row from './components/bootstrapComponents/Row'
+import Image from './components/Image'
+import Button from './components/bootstrapComponents/Button'
 import characters from './images'
 import Header from './components/Header'
-import Jumbotron from "./components/bootstrap/Jumbotron/Jumbotron";
+import Jumbotron from "./components/bootstrapComponents/Jumbotron/Jumbotron";
 
 class App extends Component {
 
